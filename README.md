@@ -1,5 +1,7 @@
 # Api documentation 
 
+### Note: apart from query params everything you can understand from swagger documentations
+
 ### query params standard
                     
 	query params  | date range query params | pagination params  | order params
