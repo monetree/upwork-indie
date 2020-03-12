@@ -1,5 +1,14 @@
 #Api documentation 
 
+###query params standard
+                    
+	query params  | date range query params | pagination params  | order params
+	------------------------------------------------------------------------------------------------------------------
+	?param=foo    | ?param=[from, to]       | ?limit=10,offset=1 | ?ordering=columns_name(asc), ordering=-columns_name (desc) 
+
+
+
+
 ### api endpoints for get endpoints:
 
 - `/release/`
@@ -34,11 +43,6 @@
 		- name
 		- created_on
                     
-###Tables
-                    
-	query params  | date range query params | pagination params  | order params
-	------------------------------------------------------------------------------------------------------------------
-	?param=foo    | ?param=[from, to]       | ?limit=10,offset=1 | ?ordering=columns_name(asc), ordering=-columns_name (desc) 
 
 
 
