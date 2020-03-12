@@ -44,6 +44,6 @@
 
 
 
-### aws doc
+### aws doc for deployment
 
 https://github.com/monetree/aws-deployment/blob/master/django-aws-deployment.md
