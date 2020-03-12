@@ -1,5 +1,14 @@
 # Api documentation 
 
+### steps to run the project
+
+1. create virtualenv
+2. activate virtualenv
+3. pip install -r requirements.txt
+4. python manage.py migrate
+5. python manage.py runserver
+
+
 ##### Note: apart from query params everything you can understand from swagger documentations (All the apis tested in swagger and postman)
 
 ### query params standard
