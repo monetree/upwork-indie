@@ -1,6 +1,6 @@
 # Api documentation 
 
-### Note: apart from query params everything you can understand from swagger documentations
+	#Note: apart from query params everything you can understand from swagger documentations (All the apis tested in swagger and postman)
 
 ### query params standard
                     
